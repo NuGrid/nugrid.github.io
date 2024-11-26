@@ -41,16 +41,16 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 | 10:40 - 10:50         | M. Pignatari (Konkoly)         | “Introduction to NuGrid and IReNA”                                                                                    |   |
 | 10:50 - 11:20         | P. Denissenkov (UVic)   | "CaNPAN and international pedagogic and research activities in nuclear astrophysics
 "                                                                                                      |   |
-| 11:20 - 11:50      |  J. Wu (BNL) | "β-decays for r-process"                                                                         |   |
-| 11:50 - 12:10     | A.  Holas (Heidelberg) | "Thermonuclear electron-capture supernovae – New production sites completing the solar inventory of isotopes?"                                                                   |   |
+| 11:20 - 11:40      |S. Abrahams (York)    | "Nucleosynthesis in accreting neutron star common envelopes"                                                                         |   |
+| 11:40 - 12:00     | A.  Holas (Heidelberg) | "Thermonuclear electron-capture supernovae – New production sites completing the solar inventory of isotopes?"                                                                   |   |
 | 12:10 - 13:30 | Lunch Break                     |                                                                                                                     |   |
 | 13:30 - 14:00         | B. Pritychenko (BNL)        | "Calculating Maxwellian Averaged Cross Sections, Astrophysical Reaction Rates, and r-process Abundances from the ENDF/B-VIII.1, JEFF-3.3, JENDL-5.0, BROND-3.1, and CENDL-3.2 Evaluated Data Libraries"                                                                   |   |
 | 14:00 - 14:20        | U. Battino (Keele)       | "Application of the ChANUREPS and OrCHESTRA Nuclear Astrophysics Databases in Stellar Nucleosynthesis Simulations" |   |
-| 14:20 - 14:40        | S. Abrahams (York)    | "Nucleosynthesis in accreting neutron star common envelopes"                                                                         |   |
-| 14:40 - 15:00        | W. Harun (Edinburgh)    | "Exploring the s-process nucleosynthesis in massive stars"                                                                         |   |
-| 15:00 - 15:20        | L. Roberti (Budapest)    | "Rare nuclei production in core-collapse supernovae: the γ-process nucleosynthesis"                                                                         |   |
-| 15:20 - 15:30        | S. Ota (BNL)    | "Closing remarks"                                                                         |   |
-| 15:30 - 16:00        |     | Coffee Break                                                                          |   |
+| 14:20 - 14:50        |   J. Wu (BNL) | "β-decays for r-process"                                                                         |   |
+| 14:50 - 15:10        | W. Harun (Edinburgh)    | "Exploring the s-process nucleosynthesis in massive stars"                                                                         |   |
+| 15:10 - 15:30        | L. Roberti (Budapest)    | "Rare nuclei production in core-collapse supernovae: the γ-process nucleosynthesis"                                                                         |   |
+| 15:30 - 15:40        | S. Ota (BNL)    | "Closing remarks"                                                                         |   |
+| 15:40 - 16:00        |     | Coffee Break                                                                          |   |
 | 16:00 - 17:00        |     | "Q&A with students 2: questions and solutions for TINA computational experiments"                                                                          |   |
 
 IReNA workshops and conferences are community events intended for networking
