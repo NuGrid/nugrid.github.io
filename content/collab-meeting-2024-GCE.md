@@ -1,4 +1,4 @@
-# A Basic Training Program for Galactic Chemical Evolution
+# A Basic Training Program for Galactic Chemical Evolution (OMEGA)
 ### Contact: Blanka Világos, Viola Hegedűs, Dr. Marco Pignatari
 
 ## Summary 

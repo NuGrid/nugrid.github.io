@@ -1,4 +1,4 @@
-# The 2024 CaNPAN/NuGrid Training Program
+# The 2024 CaNPAN/NuGrid Training Program (TINA)
 ## Contact: Dr. Pavel Denisenkov, University of Victoria, Canada
 
 ### Summary

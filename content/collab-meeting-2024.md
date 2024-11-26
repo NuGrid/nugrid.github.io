@@ -29,8 +29,8 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 ---
 ## Program
 
-## [The 2024 CaNPAN/NuGrid Training Program](https://nugrid.github.io/content/collab-meeting-2024-canpan)
-## [A Basic Training Program for Galactic Chemical Evolution](https://nugrid.github.io/content/collab-meeting-2024-GCE)
+## Activity 1: [The 2024 CaNPAN/NuGrid Training Program (TINA)](https://nugrid.github.io/content/collab-meeting-2024-canpan)
+## Activity 2: [A Basic Training Program for Galactic Chemical Evolution (OMEGA)](https://nugrid.github.io/content/collab-meeting-2024-GCE)
 
 *All times are listed in EDT (+6 for CEST, +5 for BST and -3 for PDT)*
 
