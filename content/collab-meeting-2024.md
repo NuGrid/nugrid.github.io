@@ -23,8 +23,86 @@ capabilities in the US and abroad, and thus greatly accelerate progress in scien
 
 Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event and receive the zoom link.
 
+## Zoom information
 ---
-## Participants (TBA)
+
+Join ZoomGov Meeting
+
+https://bnl.zoomgov.com/j/1608527677?pwd=EVzzy5srVqgOej9NHChMhwZbPGicij.1
+
+Meeting ID: 160 852 7677
+
+Passcode: 648243
+ 
+
+One tap mobile
+
++16692545252,,1608527677#,,,,*648243# US (San Jose)
+
++16469641167,,1608527677#,,,,*648243# US (US Spanish Line)
+
+
+- +1 669 254 5252 US (San Jose)
+
+- +1 646 964 1167 US (US Spanish Line)
+
+- +1 646 828 7666 US (New York)
+
+- +1 669 216 1590 US (San Jose)
+
+- +1 415 449 4000 US (US Spanish Line)
+
+- +1 551 285 1373 US (New Jersey)
+ 
+Find your local number: https://bnl.zoomgov.com/u/abu8pCO4W
+
+Join by SIP
+
+- 1608527677@sip.zoomgov.com
+
+Join by H.323
+
+- 161.199.138.10 (US West)
+
+- 161.199.136.10 (US East)
+
+
+
+
+---
+## Participants 
+
+| Name                        | Institution                              |
+|-----------------------------|------------------------------------------|
+| Alex Hall-Smith             | UYork                                    |
+| Alexander Holas             | HITS                                     |
+| Ani Patel                   | Columbia                                 |
+| Artemis Tsantiri            | FRIB/MSU                                 |
+| Blanka Világos              | Stockholm University                     |
+| Daniel Quinter              | NNDC                                     |
+| Ratankumar Singh            | The Maharaja Sayajirao University Baroda |
+| Eliana Masha                | HZDR                                     |
+| Emanuel Chimanski           | BNL                                      |
+| Guo Li                      | Chinese Academy of Sciences              |
+| João Afonso Peres Jantarada | FCUL                                     |
+| Joshua Issa                 | UVictoria                                |
+| Lorenzo Roberti             | Konkoly Observatory                      |
+| Maeve Cockshutt             | UVictoria/TRIUMF                         |
+| Mallory Loria               | UVictoria                                |
+| Marco Pignatari             | Konkoly Observatory                      |
+| Maren Brauner               | Instituto de Astrofísica de Canarias     |
+| Natalia Dziubelski          | BNL                                      |
+| Pavel Denissenkov           | UVictoria                                |
+| Reto Trappitsch             | EPFL                                     |
+| Sanjanee Waniganeththi      | BNL                                      |
+| SOphie Abrahams             | UYork                                    |
+| Sophie Tsiatsiou            | UGeneva                                  |
+| Sydney Coil                 | FRIB                                     |
+| Thanassis Psaltis           | TUNL/Duke                                |
+| Umberto Battino             | Keele University                         |
+| Viola Hegedus               | ELTE Eötvös Loránd University            |
+| Wan Aishah Wan Harun        | UEdinburgh                               |
+
 
 ---
 ## Program
