@@ -26,9 +26,8 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 ## Zoom information
 ---
 
-Join ZoomGov Meeting
 
-https://bnl.zoomgov.com/j/1608527677?pwd=EVzzy5srVqgOej9NHChMhwZbPGicij.1
+[Join ZoomGov Meeting](https://bnl.zoomgov.com/j/1608527677?pwd=EVzzy5srVqgOej9NHChMhwZbPGicij.1)
 
 Meeting ID: 160 852 7677
 
@@ -54,7 +53,7 @@ One tap mobile
 
 - +1 551 285 1373 US (New Jersey)
  
-Find your local number: https://bnl.zoomgov.com/u/abu8pCO4W
+[Find your local number](https://bnl.zoomgov.com/u/abu8pCO4W)
 
 Join by SIP
 
@@ -103,8 +102,6 @@ Join by H.323
 | Viola Hegedus               | ELTE Eötvös Loránd University            |
 | Wan Aishah Wan Harun        | UEdinburgh                               |
 
-
----
 ## Program
 
 ## Activity 1: [The 2024 CaNPAN/NuGrid Training Program (TINA)](https://nugrid.github.io/content/collab-meeting-2024-canpan)
