@@ -71,36 +71,39 @@ Join by H.323
 ---
 ## Participants 
 
-| Name                        | Institution                              |
-|-----------------------------|------------------------------------------|
-| Alex Hall-Smith             | UYork                                    |
-| Alexander Holas             | HITS                                     |
-| Ani Patel                   | Columbia                                 |
-| Artemis Tsantiri            | FRIB/MSU                                 |
-| Blanka Világos              | Stockholm University                     |
-| Daniel Quinter              | NNDC                                     |
-| Ratankumar Singh            | The Maharaja Sayajirao University Baroda |
-| Eliana Masha                | HZDR                                     |
-| Emanuel Chimanski           | BNL                                      |
-| Guo Li                      | Chinese Academy of Sciences              |
-| João Afonso Peres Jantarada | FCUL                                     |
-| Joshua Issa                 | UVictoria                                |
-| Lorenzo Roberti             | Konkoly Observatory                      |
-| Maeve Cockshutt             | UVictoria/TRIUMF                         |
-| Mallory Loria               | UVictoria                                |
-| Marco Pignatari             | Konkoly Observatory                      |
-| Maren Brauner               | Instituto de Astrofísica de Canarias     |
-| Natalia Dziubelski          | BNL                                      |
-| Pavel Denissenkov           | UVictoria                                |
-| Reto Trappitsch             | EPFL                                     |
-| Sanjanee Waniganeththi      | BNL                                      |
-| SOphie Abrahams             | UYork                                    |
-| Sophie Tsiatsiou            | UGeneva                                  |
-| Sydney Coil                 | FRIB                                     |
-| Thanassis Psaltis           | TUNL/Duke                                |
-| Umberto Battino             | Keele University                         |
-| Viola Hegedus               | ELTE Eötvös Loránd University            |
-| Wan Aishah Wan Harun        | UEdinburgh                               |
+| Name                        | Institution                                  |
+|-----------------------------|----------------------------------------------|
+| Alex Hall-Smith             | UYork                                        |
+| Alexander Holas             | HITS                                         |
+| Allyson Dewey               | BNL                                          |
+| Ani Patel                   | Columbia                                     |
+| Amal Sebastian              | FRIB                                         |
+| Artemis Tsantiri            | FRIB/MSU                                     |
+| Blanka Világos              | Stockholm University                         |
+| Daniel Quinter              | NNDC                                         |
+| Ratankumar Singh            | The Maharaja Sayajirao University Baroda     |
+| Eliana Masha                | HZDR                                         |
+| Emanuel Chimanski           | BNL                                          |
+| Guo Li                      | Chinese Academy of Sciences                  |
+| João Afonso Peres Jantarada | FCUL                                         |
+| Joshua Issa                 | UVictoria                                    |
+| Lorenzo Roberti             | Konkoly Observatory                          |
+| Maeve Cockshutt             | UVictoria/TRIUMF                             |
+| Mallory Loria               | UVictoria                                    |
+| Marco Pignatari             | Konkoly Observatory                          |
+| Maren Brauner               | Instituto de Astrofísica de Canarias         |
+| Natalia Dziubelski          | BNL                                          |
+| Pavel Denissenkov           | UVictoria                                    |
+| Reto Trappitsch             | EPFL                                         |
+| Sanjanee Waniganeththi      | BNL                                          |
+| Sophie Abrahams             | UYork                                        |
+| Sophie Tsiatsiou            | UGeneva                                      |
+| Sude Baltaci                | University of Illinois at Urbana - Champaign |
+| Sydney Coil                 | FRIB                                         |
+| Thanassis Psaltis           | TUNL/Duke                                    |
+| Umberto Battino             | Keele University                             |
+| Viola Hegedus               | ELTE Eötvös Loránd University                |
+| Wan Aishah Wan Harun        | UEdinburgh                                   |
 
 ## Program
 
