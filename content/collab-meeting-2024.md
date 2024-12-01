@@ -104,8 +104,8 @@ Join by H.323
 
 ## Program
 
-## Activity 1: [The 2024 CaNPAN/NuGrid Training Program (TINA)](https://nugrid.github.io/content/collab-meeting-2024-canpan)
-## Activity 2: [A Basic Training Program for Galactic Chemical Evolution (OMEGA)](https://nugrid.github.io/content/collab-meeting-2024-GCE)
+## Activity 1: [A Basic Training Program for Galactic Chemical Evolution (OMEGA)](https://nugrid.github.io/content/collab-meeting-2024-GCE)
+## Activity 2: [The 2024 CaNPAN/NuGrid Training Program (TINA)](https://nugrid.github.io/content/collab-meeting-2024-canpan)
 
 *All times are listed in EDT (+6 for CEST, +5 for BST and -3 for PDT)*
 
