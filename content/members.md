@@ -123,21 +123,38 @@ World Map of the Collaboration
 <script>
 
 // Set the percentage of the screen the map will occupy
-var mapWidthPercentage = 0.8;  // 80% of the screen width
-var mapHeightPercentage = 0.8;  // 80% of the screen height
-
-// Get the window width and height
-var width = window.innerWidth * mapWidthPercentage;
-var height = window.innerHeight * mapHeightPercentage;
+var mapWidthPercentage = 1;  // 100% of the parent width
+var aspectRatio = 3 / 2;     // Aspect ratio (width:height)
 
 // Define a projection and path generator
-var projection = d3.geoMercator().scale(150).translate([width / 2, height / 1.5]);
+var projection = d3.geoMercator();
 var path = d3.geoPath().projection(projection);
 
-// Set the SVG container for the map
-var svg = d3.select("#map").append("svg")
-    .attr("width", width)
-    .attr("height", height);
+// Function to update the map size based on the container's width
+function updateMapSize() {
+    // Get the current width of the container (parent of #map)
+    var width = document.getElementById('map').offsetWidth * mapWidthPercentage;
+
+    // Calculate height based on the aspect ratio (3:2)
+    var height = width / aspectRatio;
+
+    // Update the SVG container with new width and height
+    d3.select("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    // Update the projection's scale and translation
+    projection.scale(150).translate([width / 2, height / 1.5]);
+
+    // Redraw the map paths and points
+    d3.selectAll("path").attr("d", path);
+    d3.selectAll(".point")
+        .attr("cx", function(d) { return projection([d.longitude, d.latitude])[0]; })
+        .attr("cy", function(d) { return projection([d.longitude, d.latitude])[1]; });
+}
+
+// Create the SVG container for the map
+var svg = d3.select("#map").append("svg");
 
 // Load the world map data (TopoJSON)
 d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(function(world) {
@@ -167,9 +184,17 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(fu
             .attr("title", function(d) { return d.name + " (" + d.city + ")"; });
 
     });
+
+    // Initial map size update
+    updateMapSize();
+
+    // Listen for window resize events and update map size accordingly
+    window.addEventListener('resize', updateMapSize);
+
 });
 
 </script>
+
 
 
 Past members
