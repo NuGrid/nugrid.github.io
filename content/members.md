@@ -15,8 +15,8 @@
             stroke-width: 1px;
             opacity: 0.8;
         }
-    </style>
-	
+</style>
+
 # Members
 
 NuGrid is an open, flexible collaboration involving researchers from
@@ -135,7 +135,7 @@ var svg = d3.select("#map").append("svg")
 // Load the world map data (TopoJSON)
 d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(function(world) {
 
-// Draw the map using the data with grey color scheme
+    // Draw the map using the data with grey color scheme
     svg.append("g")
         .selectAll("path")
         .data(topojson.feature(world, world.objects.countries).features)
@@ -146,10 +146,10 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(fu
         .attr("stroke", "#FFFFFF") // White borders for the countries
         .attr("stroke-width", 0.5);
 
-// Load the collaborators data from collaborators.json
-    d3.json("https://nugrid.github.io/files/collaborators.json").then(function(collaborators) {
+    // Load the collaborators data from collaborators.json
+    d3.json("https://nugrid.githbub.io/files/collaborators.json").then(function(collaborators) {
 
-// Plot the points for each collaborator
+        // Plot the points for each collaborator
         svg.selectAll(".point")
             .data(collaborators)
             .enter().append("circle")
@@ -159,8 +159,9 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(fu
             .attr("r", 5)
             .attr("title", function(d) { return d.name + " (" + d.city + ")"; });
 
-   });
+    });
 });
+
 </script>
 
 
@@ -169,7 +170,7 @@ Past members
 
 **E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi, William Logan, George Harvey, Stephane Trouille, William Wrathall, Richard Stancliffe, Jordan Schofield  
 
-**University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter, David Stephens, Ondrea Clarkson, Adam Paul 
+**University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter, David Stephens, Ondrea Clarkson, Adam Paul
 
 **University of York, UK**:Joscelyn Riley, Nic Hubbard, Chloe McElvaney, Josh Duncan, Emma Bendall, Ben Griffiths, Lewis Jones, Ben Shaw
 
@@ -179,7 +180,7 @@ Past members
 
 **Basel University, Switzerland**: Isabelle van Rijs
 
-**Arizona State University, USA**: Eric Deleeuw, P. A. Young, Ilka Petermann 
+**Arizona State University, USA**: Eric Deleeuw, P. A. Young, Ilka Petermann
 
 **Michigan State University, USA**: Ulrike Hager, Richard Cyburt, Carl Fields
 
@@ -187,7 +188,7 @@ Past members
 
 **Louisiana State Universtiy USA**: Geoff Clayton, Kundam Kadam, Ischelle Martin
 
-** University of Notre Dame, USA**: Mary Beard, Kiana Setoodehnia, Georgios Magkotsios
+**University of Notre Dame, USA**: Mary Beard, Kiana Setoodehnia, Georgios Magkotsios
 
 **Keele University, UK**: Nobuya Nishimura, C. Georgy, A. Kozyreva, M. Bennett
 
