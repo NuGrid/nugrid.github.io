@@ -3,9 +3,9 @@
 
 ## Our Goals
 
-In the context of our annual NuGrid collaboration meeting, we are hosting a 
+In the context of our annual NuGrid collaboration meeting, we are hosting a
 full day event with nuclear astrophysics talks, experimental and theoretical,
-**open to the public**. Our goal is to showcase recent results from the 
+**open to the public**. Our goal is to showcase recent results from the
 NuGrid collaboration and establish further connections and collaborations with
 interested groups.
 
@@ -13,13 +13,13 @@ interested groups.
 *This event is supported by [IReNA](https://www.irenaweb.org/), the International Research Network for
 Nuclear Astrophysics. IReNA is a US National Science Foundation AccelNet
 Network of Networks. It connects six interdisciplinary research networks
-across 17 countries to foster collaboration, complement and enhance research 
+across 17 countries to foster collaboration, complement and enhance research
 capabilities in the US and abroad, and thus greatly accelerate progress in science.*
 
 ![IReNA-logo](https://indico.frib.msu.edu/event/46/images/198-IReNA_logo.png)
 
 ---
-## Sign up 
+## Sign up
 
 Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event and receive the zoom link.
 
@@ -32,7 +32,7 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 Meeting ID: 160 852 7677
 
 Passcode: 648243
- 
+
 
 One tap mobile
 
@@ -52,7 +52,7 @@ One tap mobile
 - +1 415 449 4000 US (US Spanish Line)
 
 - +1 551 285 1373 US (New Jersey)
- 
+
 [Find your local number](https://bnl.zoomgov.com/u/abu8pCO4W)
 
 Join by SIP
@@ -69,7 +69,7 @@ Join by H.323
 
 
 ---
-## Participants 
+## Participants
 
 | Name                        | Institution                                  |
 |-----------------------------|----------------------------------------------|
@@ -107,8 +107,8 @@ Join by H.323
 
 ## Program
 
-## Activity 1: [A Basic Training Program for Galactic Chemical Evolution (OMEGA)](https://nugrid.github.io/content/collab-meeting-2024-GCE)
-## Activity 2: [The 2024 CaNPAN/NuGrid Training Program (TINA)](https://nugrid.github.io/content/collab-meeting-2024-canpan)
+## Activity 1: [A Basic Training Program for Galactic Chemical Evolution (OMEGA)](collab-meeting-2024-GCE.md)
+## Activity 2: [The 2024 CaNPAN/NuGrid Training Program (TINA)](collab-meeting-2024-canpan.md)
 
 *All times are listed in EDT (+6 for CEST, +5 for BST and -3 for PDT)*
 
@@ -156,7 +156,7 @@ Harassment includes offensive verbal comments or jokes related to nationality,
 gender, sexual orientation, disability, physical appea
 ance, body size, race, religion, as well as sexual images in public spaces,
 deliberate intimidation, stalking, following, harassing photography or
-recording, sustained disruption of talks or other events, inappropriate 
+recording, sustained disruption of talks or other events, inappropriate
 physical contact, and unwelcome sexual attention.
 Bullying is defined as unwelcome or unreasonable behavior that demeans,
 intimidates, humiliates, or sabotages people, either as individuals or as a
@@ -170,5 +170,3 @@ a report of known or suspected code of conduct violation. Sanctions against
 attendees violating these rules are at the sole discretion of the conference
 organizers and may range from warnings to being asked to leave the event, and
 exclusion from future IReNA sponsored meetings.
-
-
