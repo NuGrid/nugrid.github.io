@@ -116,6 +116,8 @@ collaboration rules.
 World Map of the Collaboration
 ---
 
+<div id="map"></div>
+
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
 <script>
