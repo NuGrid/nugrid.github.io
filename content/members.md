@@ -143,8 +143,10 @@ function updateMapSize() {
         .attr("width", width)
         .attr("height", height);
 
-    // Update the projection's scale and translation
-    projection.scale(150).translate([width / 2, height / 1.5]);
+    // Set a projection scale that ensures the map fits within the available space
+    var scale = Math.min(width / 2, height / 2);  // Use half of the width or height to ensure map fits
+    projection.scale(scale)
+              .translate([width / 2, height / 1.5]); // Keep the center of the map
 
     // Redraw the map paths and points
     d3.selectAll("path").attr("d", path);
