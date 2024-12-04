@@ -123,41 +123,43 @@ World Map of the Collaboration
 <script>
 
 // Set the percentage of the screen the map will occupy
-var mapWidthPercentage = 1;  // 100% of the screen width
+var mapWidthPercentage = 1;  // 100% of the parent width
+var aspectRatio = 3 / 2;     // Aspect ratio (width:height)
 
-// Create the projection and path generator
+// Define a projection and path generator
 var projection = d3.geoMercator();
+var path = d3.geoPath().projection(projection);
 
-// Load the world map data (TopoJSON)
-d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(function(world) {
-
-    // Set up the path generator for the map
-    var path = d3.geoPath().projection(projection);
-
-    // Get the bounding box of the map
-    var bounds = path.bounds(topojson.feature(world, world.objects.countries));
-
-    // Calculate the width and height of the bounding box
-    var mapWidth = bounds[1][0] - bounds[0][0];
-    var mapHeight = bounds[1][1] - bounds[0][1];
-
-    // Calculate the aspect ratio (width / height)
-    var aspectRatio = mapWidth / mapHeight;
-
-    // Get the width of the container
+// Function to update the map size based on the container's width
+function updateMapSize() {
+    // Get the current width of the container (parent of #map)
     var width = document.getElementById('map').offsetWidth * mapWidthPercentage;
 
-    // Calculate the height based on the aspect ratio
+    // Calculate height based on the aspect ratio (3:2)
     var height = width / aspectRatio;
 
-    // Set up the SVG container for the map
-    var svg = d3.select("#map").append("svg")
+    // Update the SVG container with new width and height
+    d3.select("svg")
         .attr("width", width)
         .attr("height", height);
 
-    // Apply the projection scale and translation to fit the map inside the SVG container
-    var scale = Math.min(width / mapWidth, height / mapHeight);  // Ensure the map fits
-    projection.scale(scale).translate([width / 2, height / 2]);
+    // Set a projection scale that ensures the map fits within the available space
+    var scale = Math.min(width / 2, height / 2);  // Use half of the width or height to ensure map fits
+    projection.scale(scale)
+              .translate([width / 2, height / 1.5]); // Keep the center of the map
+
+    // Redraw the map paths and points
+    d3.selectAll("path").attr("d", path);
+    d3.selectAll(".point")
+        .attr("cx", function(d) { return projection([d.longitude, d.latitude])[0]; })
+        .attr("cy", function(d) { return projection([d.longitude, d.latitude])[1]; });
+}
+
+// Create the SVG container for the map
+var svg = d3.select("#map").append("svg");
+
+// Load the world map data (TopoJSON)
+d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(function(world) {
 
     // Draw the map using the data with grey color scheme
     svg.append("g")
@@ -184,12 +186,36 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(fu
             .attr("title", function(d) { return d.name + " (" + d.city + ")"; });
 
     });
+
+    // Initial map size update
+    updateMapSize();
+
+    // Listen for window resize events and update map size accordingly
+    window.addEventListener('resize', updateMapSize);
+
+    // Add drag behavior to allow map movement
+    var drag = d3.drag()
+        .on("drag", function(event) {
+            var dx = event.dx;
+            var dy = event.dy;
+
+            // Translate projection based on drag distance
+            var newTranslate = projection.translate();
+            projection.translate([newTranslate[0] + dx, newTranslate[1] + dy]);
+
+            // Redraw the map paths and points
+            d3.selectAll("path").attr("d", path);
+            d3.selectAll(".point")
+                .attr("cx", function(d) { return projection([d.longitude, d.latitude])[0]; })
+                .attr("cy", function(d) { return projection([d.longitude, d.latitude])[1]; });
+        });
+
+    // Apply drag behavior to the SVG container
+    svg.call(drag);
+
 });
 
 </script>
-
-
-
 
 
 Past members
