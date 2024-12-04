@@ -120,8 +120,13 @@ World Map of the Collaboration
 <script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
 <script>
 
-// Set the dimensions for the map
-var width = 960, height = 600;
+// Set the percentage of the screen the map will occupy
+var mapWidthPercentage = 0.8;  // 80% of the screen width
+var mapHeightPercentage = 0.8;  // 80% of the screen height
+
+// Get the window width and height
+var width = window.innerWidth * mapWidthPercentage;
+var height = window.innerHeight * mapHeightPercentage;
 
 // Define a projection and path generator
 var projection = d3.geoMercator().scale(150).translate([width / 2, height / 1.5]);
@@ -147,7 +152,7 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(fu
         .attr("stroke-width", 0.5);
 
     // Load the collaborators data from collaborators.json
-    d3.json("https://nugrid.githbub.io/files/collaborators.json").then(function(collaborators) {
+    d3.json("https://nugrid.github.io/files/collaborators.json").then(function(collaborators) {
 
         // Plot the points for each collaborator
         svg.selectAll(".point")

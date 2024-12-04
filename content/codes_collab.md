@@ -18,4 +18,4 @@ nucleosynthesis including NSE, _sandbox_ interface to easily test user generated
 
 If you find the NuGrid project interesting please contact any of the members. We have annual collaboration meetings where we discuss the future directions, including how to make our tools available to a wider community. If you would
 like to receive occasional news and announcement about data releases, available NuGrid tools and new NuGrid publications, please consider signing up to the
-[public mailing list](https://lists.uvic.ca/mailman/listinfo/nugrid).
+[public mailing list](https://lists.uvic.ca/mailman/listinfo/nugrid-team).
