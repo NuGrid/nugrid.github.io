@@ -21,7 +21,8 @@
 NuGrid data are publically available (see below), and can be analyzed online via the Cyberhubs instance [WENDI](http://wendi.nugridstars.org).
 
 ## Recommended single stellar nucleosynthesis dataset
-This is the recommended NuGrid stellar models and ejected yields data set. We recommended this set of data for various tasks, e.g. inputs for GCE simulations, comparisons with observations and laboratory data and more.
+This is the recommended NuGrid stellar models and ejected yields dataset. We recommend using this dataset for various purposes, such as inputs for GCE simulations, comparisons with observations and laboratory data, and more.
+
 
 | **Z = 0.03**           |            | |  | 
 |----------------|------------|------------|------------|
@@ -73,6 +74,7 @@ This is the recommended NuGrid stellar models and ejected yields data set. We re
 
 
 ## Full detailed stellar structure and nucleosynthesis data
+In addition to the recommended dataset above, we also provide the published data associated with each of the publications listed at the top of the page.
 
 | Set1           |            | | 
 |----------------|------------|------------|
