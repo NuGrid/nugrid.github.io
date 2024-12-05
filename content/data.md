@@ -26,43 +26,43 @@ NuGrid data are publically available (see below), and can be analyzed online via
 |----------------|------------|------------|------------|
 | M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
 | M = 3 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
+| | | | |
 | **Z = 0.02**           |            | |  | 
-|----------------|------------|------------|------------|
 | M = 1 Msun       | [Yields](files/yields_tables/m1_z2m2_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1z2m2_fin_surfabu.dat)  | Ritter et al. 2018
 | M = 1.65 Msun       | [Yields](files/yields_tables/m1p65_z2m2_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1p65z2m2_fin_surfabu.dat)  | Ritter et al. 2018
-| M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt) | [Final surface abundances] (files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
+| M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt) | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
 | M = 3 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)   | Battino et al. 2019
 | M = 4-7 Msun       | [Yields](files/yields_tables/m4m5m6m7_z2m2_Ritter2018.txt)  | -  | Ritter et al. 2018
 | M = 12-25 Msun       | [Yields](files/yields_tables/m12m15m20m25_z2m2_z1m2_z6m3_z1m3_z1m4_Ritter1018.txt)  | -  | Ritter et al. 2018
+| | | | |
 | **Z = 0.01**           |            | |  | 
-|----------------|------------|------------|------------|
 | M = 1 Msun       | [Yields](files/yields_tables/m1_z1m2_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1z1m2_fin_surfabu.dat)  | Ritter et al. 2018
 | M = 1.65 Msun       | [Yields](files/yields_tables/m1p65_z1m2_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1p65z1m2_fin_surfabu.dat)  | Ritter et al. 2018
-| M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt) | [Final surface abundances] (files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
+| M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt) | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
 | M = 3 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)   | Battino et al. 2019
 | M = 4-7 Msun       | [Yields](files/yields_tables/m4m5m6m7_z1m2_Ritter2018.txt)  | -  | Ritter et al. 2018
 | M = 12-25 Msun       | [Yields](files/yields_tables/m12m15m20m25_z2m2_z1m2_z6m3_z1m3_z1m4_Ritter1018.txt)  | -  | Ritter et al. 2018
+| | | | |
 | **Z = 0.006**           |            | |  | 
-|----------------|------------|------------|------------|
 | M = 1 Msun       | [Yields](files/yields_tables/m1_z6m3_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1z6m3_fin_surfabu.dat)  | Ritter et al. 2018
 | M = 1.65 Msun       | [Yields](files/yields_tables/m1p65_z6m3_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1p65z6m3_fin_surfabu.dat)  | Ritter et al. 2018
-| M = 2 Msun       | [Yields](files/yields_tables/m2_z6m3_Ritter2018.txt) | [Final surface abundances] (files/final_surf_abu/m2z6m3_fin_surfabu.dat)  | Ritter et al. 2018
-| M = 3 Msun       | [Yields](files/yields_tables/m3_z6m3_Ritter2018.txt) | [Final surface abundances] (files/final_surf_abu/m3z6m3_fin_surfabu.dat)  | Ritter et al. 2018
+| M = 2 Msun       | [Yields](files/yields_tables/m2_z6m3_Ritter2018.txt) | [Final surface abundances](files/final_surf_abu/m2z6m3_fin_surfabu.dat)  | Ritter et al. 2018
+| M = 3 Msun       | [Yields](files/yields_tables/m3_z6m3_Ritter2018.txt) | [Final surface abundances](files/final_surf_abu/m3z6m3_fin_surfabu.dat)  | Ritter et al. 2018
 | M = 4-7 Msun       | [Yields](files/yields_tables/m4m5m6m7_z6m3_Ritter2018.txt)  | -  | Ritter et al. 2018
 | M = 12-25 Msun       | [Yields](files/yields_tables/m12m15m20m25_z2m2_z1m2_z6m3_z1m3_z1m4_Ritter1018.txt)  | -  | Ritter et al. 2018
+| | | | |
 | **Z = 0.002**           |            | |  | 
-|----------------|------------|------------|------------|
 | M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m3_m2_z2m3_Battino2021.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z1m3_m2_z2m3_final_surf_isoabu_Battino2021.txt)  | Battino et al. 2021
+| | | | |
 | **Z = 0.001**           |            | |  | 
-|----------------|------------|------------|------------|
 | M = 1 Msun       | [Yields](files/yields_tables/m1_z1m3_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1z1m3_fin_surfabu.dat)  | Ritter et al. 2018
 | M = 1.65 Msun       | [Yields](files/yields_tables/m1p65_z1m3_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1p65z1m3_fin_surfabu.dat)  | Ritter et al. 2018
  M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m3_m2_z2m3_Battino2021.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z1m3_m2_z2m3_final_surf_isoabu_Battino2021.txt)  | Battino et al. 2021| 
  M = 3 Msun       | [Yields](files/yields_tables/m2m3_z1m3_m2_z2m3_Battino2021.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z1m3_m2_z2m3_final_surf_isoabu_Battino2021.txt)  | Battino et al. 2021
 | M = 4-7 Msun       | [Yields](files/yields_tables/m4m5m6m7_z1m3_Ritter2018.txt)  | -  | Ritter et al. 2018
 | M = 12-25 Msun       | [Yields](files/yields_tables/m12m15m20m25_z2m2_z1m2_z6m3_z1m3_z1m4_Ritter1018.txt)  | -  | Ritter et al. 2018
+| | | | |
 | **Z = 0.0001**           |            | |  | 
-|----------------|------------|------------|------------|
 | M = 1 Msun       | [Yields](files/yields_tables/m1_z1m4_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1z1m4_fin_surfabu.dat)  | Ritter et al. 2018
 | M = 1.65 Msun       | [Yields](files/yields_tables/m1p65_z1m4_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m1p65z1m4_fin_surfabu.dat)  | Ritter et al. 2018
  M = 2 Msun       | [Yields](files/yields_tables/m2_z1m4_Ritter2018.txt)  | [Final surface abundances](files/final_surf_abu/m2z1m4_fin_surfabu.dat)  | Ritter et al. 2018| 
