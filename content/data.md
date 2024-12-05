@@ -26,7 +26,7 @@ This is the recommended NuGrid stellar models and ejected yields dataset. We rec
 
 | **Z = 0.03**           |            | |  | 
 |----------------|------------|------------|------------|
-| M = 2 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
+| M = 2 Msun       | [Yields](https://nugrid.github.io/files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
 | M = 3 Msun       | [Yields](files/yields_tables/m2m3_z1m2_z2m2_z3m2_Battino2019.txt)  | [Final surface abundances](files/final_surf_abu/m2m3_z3m2_z2m2_z1m2_final_surf_isoabu_Battino2019.txt)  | Battino et al. 2019
 | | | | |
 | **Z = 0.02**           |            | |  | 
