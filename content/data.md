@@ -72,6 +72,7 @@ NuGrid data are publically available (see below), and can be analyzed online via
 
 
 ## Full detailed stellar structure and nucleosynthesis data
+
 | Set1           |            | | 
 |----------------|------------|------------|
 | Z = 0.02       | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1%2Fset1.2%2F)  | [Webpage](https://download1.nugridstars.org/set1/set1.2/)  
