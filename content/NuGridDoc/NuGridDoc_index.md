@@ -2,7 +2,7 @@
 
 The primary role of this repo is to hold documentation for the NuGrid
 collaboration that does not directly relate to a specific code or
-utility that has its own repo. For the latter documentation goes into
+utility that has its own repo. For the latter, documentation goes into
 the associated repo wiki.
 
 This repo holds the following types of information, each can be found
