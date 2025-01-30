@@ -36,7 +36,7 @@ collaboration rules.
 ### Points of contact
 
 |Project coordinator | [Marco Pignatari](mailto:mpignatari@gmail.com) |
-|Membership administrator| [Alexander Hall-Smith](mailto:ahs539@york.ac.uk) |
+|Membership administrator| [Allyson Dewey](mailto:allydewey11@gmail.com) |
 
 ### Members
 
