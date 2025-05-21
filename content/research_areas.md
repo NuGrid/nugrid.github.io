@@ -1,7 +1,7 @@
 # NuGrid Collaboration
 
 ### Publications
-[NuGrid on ADS](https://ui.adsabs.harvard.edu/#search/q=NuGrid&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[NuGrid on ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=ack%3A%22NuGrid%22%20%20or%20aff%3A%22NuGrid%22%20&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 ### Research Areas
 In addition to the primary goals the collaboration facilitates projects (in
