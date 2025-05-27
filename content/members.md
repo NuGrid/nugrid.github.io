@@ -44,6 +44,7 @@ collaboration rules.
 |----------------------------------------------------:|:-----------------------------------------|
 |                            **Keele University, UK** | Raphael Hirschi (also Kavli IPMU, Japan) |
 |                                                     | Etienne Kaiser                           |
+|                                                     | Vishnu Varma                             |
 |                      **University of Victoria, CA** | Falk Herwig                              |
 |                                                     | Pavel Denisenkov                         |
 |                                                     | Praneet Pathak                           |
