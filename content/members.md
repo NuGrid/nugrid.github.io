@@ -92,6 +92,7 @@ collaboration rules.
 |                            **UPC-Barcelona, Spain** | Adria Casanovas-Hoste                    |
 |                        **Brandeis University, USA** | Hungkwan Fok                             |
 |                     **University of Edinburgh, UK** | Claudia Lederer-Woods                    |
+|                                                     | Wan Aishah Wan Harun                     |
 |                                                     | Ashley Tattersall                        |
 |                                                     | Samuel Lloyd                             |
 |                    **Konkoly Observatory, Hungary** | Marco Pignatari                          |
