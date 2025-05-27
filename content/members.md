@@ -43,7 +43,6 @@ collaboration rules.
 |                                           Institute | Members                                  |
 |----------------------------------------------------:|:-----------------------------------------|
 |                            **Keele University, UK** | Raphael Hirschi (also Kavli IPMU, Japan) |
-|                                                     | Umberto Battino                          |
 |                                                     | Etienne Kaiser                           |
 |                      **University of Victoria, CA** | Falk Herwig                              |
 |                                                     | Pavel Denisenkov                         |
@@ -114,6 +113,10 @@ collaboration rules.
 |                  **University of Lisbon, Portugal** | Margarida Paulino                        |
 |                                                     | Daniel Galaviz                           |
 |                                                     | Joao Afonso                              |
+|     **Universita` di Napoli "Federico II", Italy**  | Umberto Battino                          |
+| **INFN - Laboratori Nazionali del Sud (LNS), Italy**| Lorenzo Roberti                          |
+
+
 
 World Map of the Collaboration
 ---
