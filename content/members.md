@@ -27,7 +27,7 @@ collaboration rules.
 
 ### Principal Investigators
 
-[Umberto Battino](mailto:ubattino@staffmail.ed.ac.uk)  
+[Umberto Battino](mailto:umberto.battino@inaf.it)  
 [Alison Laird](mailto:alison.laird@york.ac.uk)  
 [Marco Pignatari](mailto:mpignatari@gmail.com)  
 [Thanassis Psaltis](mailto:psaltis.tha@duke.edu)  
