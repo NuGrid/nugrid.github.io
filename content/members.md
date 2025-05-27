@@ -76,6 +76,7 @@ collaboration rules.
 |                     **Monash University, Australa** | Alexander Heger                          |
 |                                                     | James Grimmett                           |
 |                  **Michigan State University, USA** | Hendrik Schatz                           |
+|                                                     | Artemis Tsantiri                         |
 |                          **University of York, UK** | Alison Laird                             |
 |                                                     | Sophie Abrahams                          |
 |                                                     | Alexander Hall-Smith                     |
