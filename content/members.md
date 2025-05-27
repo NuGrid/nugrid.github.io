@@ -45,7 +45,6 @@ collaboration rules.
 |                            **Keele University, UK** | Raphael Hirschi (also Kavli IPMU, Japan) |
 |                                                     | Umberto Battino                          |
 |                                                     | Etienne Kaiser                           |
-|                                                     | James Keegans                            |
 |                      **University of Victoria, CA** | Falk Herwig                              |
 |                                                     | Pavel Denisenkov                         |
 |                                                     | Praneet Pathak                           |
@@ -62,6 +61,7 @@ collaboration rules.
 |                                                     | Mark Alexander Kaltenborn                |
 |              **Observatory of Torino, INAF, Italy** | Claudia Travaglio                        |
 |                          **University of Hull, UK** | Thomas Lawson                            |
+|                                                     | James Keegans                            |
 |                                                     | Thomas Trueman                           |
 |                                                     | Paul Fong                                |
 |                                                     | Kate Womack                              |
