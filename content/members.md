@@ -116,6 +116,7 @@ collaboration rules.
 |                                                     | Joao Afonso                              |
 |     **Universita` di Napoli "Federico II", Italy**  | Umberto Battino                          |
 | **INFN - Laboratori Nazionali del Sud (LNS), Italy**| Lorenzo Roberti                          |
+|    **University of California, Berkeley, USA**      | Luca Boccioli                            |
 
 
 
