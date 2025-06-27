@@ -97,7 +97,6 @@ collaboration rules.
 |                                                     | Ashley Tattersall                        |
 |                                                     | Samuel Lloyd                             |
 |                    **Konkoly Observatory, Hungary** | Marco Pignatari                          |
-|                                                     | Lorenzo Roberti                          |
 |              **Chinese Academy of Sciences, China** | Suqing Hou                               |
 |                     **McMaster University, Canada** | Alan Chen                                |
 |            **MPI for Intelligent Systems, Germany** | Jean-Claude Passy                        |
@@ -117,6 +116,7 @@ collaboration rules.
 |     **Universita` di Napoli "Federico II", Italy**  | Umberto Battino                          |
 | **INFN - Laboratori Nazionali del Sud (LNS), Italy**| Lorenzo Roberti                          |
 |    **University of California, Berkeley, USA**      | Luca Boccioli                            |
+|    **Heidelberg Institute for Theoretical Studies, Germany**      | Alexander Holas            |
 
 
 
