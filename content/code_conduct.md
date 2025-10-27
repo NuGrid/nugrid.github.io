@@ -16,7 +16,7 @@ We respect and value differences. We avoid offending others by exercising restra
 
 ## We conduct research with professional integrity, honesty, and following ethical standards
 
-All NuGrid-lead research activities should apply the guidelines indicated in [the NuGrid Manifesto](content/manifesto).
+All NuGrid-lead research activities should apply the guidelines indicated in [the NuGrid Manifesto](manifesto).
 
 More in general, we follow [APS guidelines for professional conduct](https://www.aps.org/policy/statements/02_2.cfm) and the [AAS research Code of Ethics](https://aas.org/policies/ethics#research). We actively foster an environment where new scientific ideas can be shared freely without fear of being taken advantage of. We praise scientific merit, wisdom and all the precious mentorship efforts with the aim to train students and new generations of scientists. We ensure that we credit others for their contribution and declare conflicts of interest. For publications we acknowledge work of others, and offer co-authorship to all who have contributed significantly to the inception, design, execution, or interpretation of the research.
 
