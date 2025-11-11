@@ -36,7 +36,7 @@ collaboration rules.
 ### Points of contact
 
 |Project coordinator | [Marco Pignatari](mailto:mpignatari@gmail.com) |
-|Membership administrator| [Allyson Dewey](mailto:allydewey11@gmail.com) |
+|Membership administrator| [Artemis Tsantiri](mailto:artemis.tsantiri@uregina.ca) |
 
 ### Members
 
@@ -76,7 +76,6 @@ collaboration rules.
 |                     **Monash University, Australa** | Alexander Heger                          |
 |                                                     | James Grimmett                           |
 |                  **Michigan State University, USA** | Hendrik Schatz                           |
-|                                                     | Artemis Tsantiri                         |
 |                          **University of York, UK** | Alison Laird                             |
 |                                                     | Sophie Abrahams                          |
 |                                                     | Alexander Hall-Smith                     |
@@ -108,7 +107,7 @@ collaboration rules.
 |                   **St. Mary's University, Canada** | Amanda Edwin                             |
 |                **University of Jyväskylä, Finland** | Anu Kankainen                            |
 |                               **EPFL, Switzerland** | Reto Trappitsch                          |
-|                            **Duke University, USA** | Thanassis Psaltis                        |
+|                 **Saint Mary's University, Canada** | Thanassis Psaltis                        |
 |                        **University of Surrey, UK** | Natalie Rees                             |
 |                  **University of Lisbon, Portugal** | Margarida Paulino                        |
 |                                                     | Daniel Galaviz                           |
@@ -117,6 +116,8 @@ collaboration rules.
 | **INFN - Laboratori Nazionali del Sud (LNS), Italy**| Lorenzo Roberti                          |
 |    **University of California, Berkeley, USA**      | Luca Boccioli                            |
 |    **Heidelberg Institute for Theoretical Studies, Germany**      | Alexander Holas            |
+|                  **University of Regina, Canada**   | Artemis Tsantiri                         |
+
 
 
 
