@@ -30,7 +30,7 @@ collaboration rules.
 [Umberto Battino](mailto:umberto.battino@inaf.it)  
 [Alison Laird](mailto:alison.laird@york.ac.uk)  
 [Marco Pignatari](mailto:mpignatari@gmail.com)  
-[Thanassis Psaltis](mailto:psaltis.tha@duke.edu)  
+[Thanassis Psaltis](mailto:thanassis.psaltis@smu.ca)  
 [Pavel Denissenkov](mailto:pavelden@uvic.ca)
 
 ### Points of contact
