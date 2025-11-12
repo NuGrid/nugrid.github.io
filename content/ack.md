@@ -2,8 +2,7 @@
 
 NuGrid acknowledges support from NSF grants PHY 02-16783 and PHY 08-22648
 (Joint Institute for Nuclear Astrophysics, JINA), NSF grant PHY-1430152 (JINA
-Center for the Evolution of the Elements), NSF Grant No. OISE-1927130 (IReNA), EU MIRG-CT-2006-046520 and STFC
-(through the University of Hull’s Consolidated Grant ST/R000840/1), 
+Center for the Evolution of the Elements), NSF Grant No. OISE-1927130 (IReNA), EU MIRG-CT-2006-046520, 
 ChETEC COST Action (CA16117) supported by COST (European Cooperation in Science and Technology), and 
 from the European Union’s Horizon 2020 research and innovation programme under grant agreement 
 No 101008324 (ChETEC-INFRA). 
