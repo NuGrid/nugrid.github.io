@@ -7,9 +7,8 @@ ChETEC COST Action (CA16117) supported by COST (European Cooperation in Science 
 from the European Union’s Horizon 2020 research and innovation programme under grant agreement 
 No 101008324 (ChETEC-INFRA). 
 The continued work on codes and in disseminating data is made possible through
-funding from STFC (RH, UK), an NSERC Discovery grant (FH, Canada) and support
-from SNF (MP, Switzerland). NuGrid computations are performed at the
-high-performance computer KHAOS at EPSAM Institute at Keele University (UK) as
+funding from STFC (RH, UK), and NSERC Discovery grant (FH, Canada). 
+NuGrid computations are performed at the high-performance computer KHAOS at EPSAM Institute at Keele University (UK) as
 well as CFI (Canada) funded computing resources at the Department of Physics
 and Astronomy at the University of Victoria and through Computing Time Resource
 Allocation through the Compute Canada WestGrid consortium. We also acknowledge
@@ -24,4 +23,6 @@ and funding from the European Research Council under the European Union's
 Seventh Framework Programme (FP/2007-2013) / ERC Grant Agreement n. 306901.
 TP acknowledges support from the Deutsche Forschungsgemeinschaft 
 (DFG, German Research Foundation)-Project No. 279384907-SFB 1245, and the 
-State of Hesse within the Research Cluster ELEMENTS (Project ID 500/10.006). NuGrid research has used the Astrohub online virtual research environment (https://astrohub.uvic.ca), developed and operated by the Computational Stellar Astrophysics group (http://csa.phys.uvic.ca) at the University of Victoria and hosted on the Computed Canada Arbutus Cloud at the University of Victoria.
+State of Hesse within the Research Cluster ELEMENTS (Project ID 500/10.006). LR thanks the support from the PRIN URKA Grant Number \verb |prin_2022rjlwhn| (Italy). MP also acknowledges the support
+from  the ERC Synergy Grant Programme (Geoastronomy, grant agreement number 101166936, Germany) and the ERC Consolidator Grant funding scheme (Project RADIOSTAR, G.A. n. 724560, Hungary). MP and LR thanks the support from We thank the support from the NKFI via K-project 138031 and the Lend\"ulet Program LP2023-10 of the Hungarian Academy of Sciences. NuGrid research has used the Astrohub online virtual research environment (https://astrohub.uvic.ca), developed and operated by the Computational Stellar Astrophysics group (http://csa.phys.uvic.ca) at the University of Victoria and hosted on the Computed Canada Arbutus Cloud at the University of Victoria.  Our work benefited from
+interactions and workshops co-organized by The Center for Nuclear astrophysics Across Messengers (CeNAM) which is supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics, under Award Number DE-SC0023128.
