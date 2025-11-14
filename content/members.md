@@ -62,9 +62,8 @@ collaboration rules.
 |              **Observatory of Torino, INAF, Italy** | Claudia Travaglio                        |
 |                          **University of Hull, UK** | Thomas Lawson                            |
 |                                                     | James Keegans                            |
-|                                                     | Thomas Trueman                           |
 |                                                     | Paul Fong                                |
-|                                                     | Kate Womack                              |
+|                                                     | Zoia Grigorenko                          |
 |                   **Arizona State University, USA** | Frank Timmes                             |
 |                                                     | Morgan Taylor                            |
 |                                                     | Ebraheem Farag                           |
@@ -96,6 +95,8 @@ collaboration rules.
 |                                                     | Ashley Tattersall                        |
 |                                                     | Samuel Lloyd                             |
 |                    **Konkoly Observatory, Hungary** | Marco Pignatari                          |
+|                                                     | Thomas Trueman                           |
+|                                                     | Taoyu Jiao                               |
 |              **Chinese Academy of Sciences, China** | Suqing Hou                               |
 |                     **McMaster University, Canada** | Alan Chen                                |
 |            **MPI for Intelligent Systems, Germany** | Jean-Claude Passy                        |
@@ -229,7 +230,7 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json").then(fu
 Past members
 ---
 
-**E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi, William Logan, George Harvey, Stephane Trouille, William Wrathall, Richard Stancliffe, Jordan Schofield  
+**E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi, William Logan, George Harvey, Stephane Trouille, William Wrathall, Richard Stancliffe, Jordan Schofield , Kate Womack 
 
 **University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter, David Stephens, Ondrea Clarkson, Adam Paul
 
