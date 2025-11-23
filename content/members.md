@@ -43,7 +43,6 @@ collaboration rules.
 |                                           Institute | Members                                  |
 |----------------------------------------------------:|:-----------------------------------------|
 |                            **Keele University, UK** | Raphael Hirschi (also Kavli IPMU, Japan) |
-|                                                     | Etienne Kaiser                           |
 |                                                     | Vishnu Varma                             |
 |                      **University of Victoria, CA** | Falk Herwig                              |
 |                                                     | Pavel Denisenkov                         |
@@ -252,7 +251,7 @@ Past members
 
 **University of Notre Dame, USA**: Mary Beard, Kiana Setoodehnia, Georgios Magkotsios
 
-**Keele University, UK**: Nobuya Nishimura, C. Georgy, A. Kozyreva, M. Bennett
+**Keele University, UK**: Nobuya Nishimura, C. Georgy, A. Kozyreva, M. Bennett, Etienne Kaiser
 
 **Observatory of Torino, INAF, Italy**: S. Bisterzo
 
